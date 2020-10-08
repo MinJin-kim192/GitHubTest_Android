@@ -12,10 +12,6 @@ class MainActivity : AppCompatActivity() {
 
         GitTestNumber = 1
 
-        var gitMaster = "master Branch 입니다"
-
-        gitMaster = "네번째 commit 한 코드"
-
 
 
 
