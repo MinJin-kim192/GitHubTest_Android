@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         GitTestNumber = 1
 
         var branchTest = 0
-        
+        var minJin_branch = "minJin Branch 입니다"
 
 
 
