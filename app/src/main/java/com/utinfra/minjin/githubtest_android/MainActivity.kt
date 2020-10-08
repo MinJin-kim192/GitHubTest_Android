@@ -12,6 +12,8 @@ class MainActivity : AppCompatActivity() {
 
         GitTestNumber = 1
 
+        var branchTest = 0
+        
 
 
 
