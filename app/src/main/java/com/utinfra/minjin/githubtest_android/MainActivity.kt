@@ -10,7 +10,9 @@ class MainActivity : AppCompatActivity() {
 
         var GitTestNumber = 0
 
-        
+        GitTestNumber = 1
+
+
 
 
 
