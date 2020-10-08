@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         GitTestNumber = 1
 
-
+        var gitMaster = "master Branch 입니다"
 
 
 
