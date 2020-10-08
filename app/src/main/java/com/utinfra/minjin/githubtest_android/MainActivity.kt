@@ -12,8 +12,8 @@ class MainActivity : AppCompatActivity() {
 
         GitTestNumber = 1
 
-        var branchTest = 0
-        
+        var branchTest = "minJin2의 Branch입니다"
+
 
 
 
