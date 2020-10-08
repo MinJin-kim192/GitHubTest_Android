@@ -12,9 +12,9 @@ class MainActivity : AppCompatActivity() {
 
         GitTestNumber = 1
 
-        var branchTest = "minJin2의 Branch입니다"
+        var branchTest = "minJin2의 Branch 입니다"
 
-
+        branchTest = "minJin2 Branch 두번째 commit 코드"
 
 
 
